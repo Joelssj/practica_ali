@@ -1,0 +1,43 @@
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/*body {
+  background: linear-gradient(to right, #8a9daf, #bfe634);
+}*/
+.Autobus {
+  border-radius: 30%;
+  width: 30%;
+  margin-top: 3%;
+}
+.container-3 {
+  padding: 2%;
+  width: 15%;
+  background: #d8d8d885;
+  margin-top: 8%;
+  flex-wrap: nowrap;
+  align-content: stretch;
+  text-align: center;
+  border-radius: 15px;
+}
+.label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2%;
+}
+.input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  border-radius: 10px;
+  border: none;
+}
+.button {
+  margin: 2%;
+  margin-bottom: 4%;
+  width: 40%;
+  border-radius: 10px;
+}
